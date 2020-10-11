@@ -1,0 +1,57 @@
+body {
+  background-color: #ffffff;
+  margin: 0;
+}
+/*This is where I edit the CSS for the header*/
+header {
+  background-image: url("images/cooking.jpg");
+}
+
+header h1 {
+  font-size: 48px;
+  padding-top: 0px;
+  padding-bottom: 80px;
+  text-align: center;
+  color: white;
+}
+
+nav {
+  text-align: center;
+}
+
+a:link:     {color: #77b4cf;}
+a:visited:  {color: #840f99;}
+a:hover:    {color: #de140d;}
+a:active:   {color: #ebcf00;}
+
+/*This is where I edit the CSS for the body*/
+main {
+  font-family: Arial;
+  background-color: white;
+  margin: auto;
+}
+/*This is where I edit the CSS for the footer*/
+footer {
+  font-family: Arial;
+  background-color: black;
+  color: #ffffff;
+}
+/*This is where I edit other elements of the style of the page*/
+
+.cooking-image {
+  position: relative;
+  min-width: 980px;
+}
+
+.headshot img {
+  width: 40%;
+  height: auto;
+  float: center;
+  margin: 0px 100px 30px 100px;
+}
+
+.body-text {
+  font-family: Arial;
+  background-color: white;
+  margin: auto;
+}

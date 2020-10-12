@@ -19,10 +19,6 @@ nav {
   text-align: center;
 }
 
-a:link:     {color: #77b4cf;}
-a:visited:  {color: #840f99;}
-a:hover:    {color: #de140d;}
-a:active:   {color: #ebcf00;}
 
 /*This is where I edit the CSS for the body*/
 main {
@@ -38,10 +34,7 @@ footer {
 }
 /*This is where I edit other elements of the style of the page*/
 
-.cooking-image {
-  position: relative;
-  min-width: 980px;
-}
+
 
 .headshot img {
   width: 40%;
@@ -50,8 +43,7 @@ footer {
   margin: 0px 100px 30px 100px;
 }
 
-.body-text {
-  font-family: Arial;
-  background-color: white;
-  margin: auto;
+.header-text {
+  font-style: italic;
+  text-align: center;
 }
